@@ -8,7 +8,7 @@
 - The player can pick a fruit by clicking or tapping on it.
 - The picked fruit can be **dragged** and **dropped** anywhere in the scene.
 - Once a fruit is picked, a new one **spawns in its place**.
-- All interactions feature **custom animations** (jiggle, scale, stretch) to give the fruit a dynamic and lively feel.
+- All interactions feature **custom animations** (jiggle, scale) to give the fruit a dynamic and lively feel.
 
 ## 🧠 Code Organization
 
