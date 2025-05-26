@@ -22,7 +22,7 @@ Each script follows **single responsibility principles**, making it easy to expa
 2. Load the scene called `TreeScene`.
 3. Play the scene in the Unity Editor to interact with the fruit.
 
-> 🍐 Drag, drop, stretch, and enjoy! The tree will keep fruiting as long as you keep picking.
+> 🍐 Drag, drop, and enjoy! The tree will keep fruiting as long as you keep picking.
 
 ## 🛠️ Technical Notes
 
